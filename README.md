@@ -1,7 +1,7 @@
 About the project:
 ============
 
-rentalMovies app composed by a backend (node api) and frontend (react).
+rentalMovies app, a backend (node api) and frontend (react).
 
 link: https://rentalmovies-frontend-react-tb.herokuapp.com/movies
 
@@ -15,11 +15,13 @@ I. Backend (RESTful API, hosted on heroku):
 
 2. database (mongoDb)
 
-3. signin, signup for users
+3. login, logout for users
 
 4. get, post, delete movies
 
-5. error handling
+5. data validation (joi)
+
+6. error handling
 
 II. Frontend (react):
 
@@ -31,7 +33,13 @@ II. Frontend (react):
 
 4. delete movies (for admin only)
 
-5. error handling
+5. pagination, filtering, and sorting
+
+6. routing
+
+5. data validation (joi-browser)
+
+6. error handling
 
 ### What Technologies Used
 
