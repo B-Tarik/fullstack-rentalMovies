@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "movies-api_jwtPrivateKey",
+  "db": "app_db"
+}

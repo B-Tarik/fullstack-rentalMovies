@@ -1,0 +1,4 @@
+.DS_Store
+rentalMovies-frontend-react/node_modules/
+rentalMovies-backend-node_api/node_modules/
+logfile.log
